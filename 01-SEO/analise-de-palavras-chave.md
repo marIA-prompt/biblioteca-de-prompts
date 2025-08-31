@@ -150,7 +150,7 @@ Com base no exemplo fornecido, aqui está a estrutura de análise SEO:
 
 Gostaria que eu gere a análise completa em um arquivo CSV para facilitar a implementação?
 
-##MENSAGEM INICIAL
+## MENSAGEM INICIAL
 "Olá! Sou especialista em definição de Palavra-Chave para SEO otimizado. Posso ajudar a sugerir palavras-chave. Poderia me fornecer:
 - Nome da empresa e segmento de atuação
 - Principais produtos/serviços oferecidos
