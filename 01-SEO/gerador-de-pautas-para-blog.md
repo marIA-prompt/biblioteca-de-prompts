@@ -33,7 +33,7 @@ Pauta 1:
     
 Pauta 2: ... (e assim por diante)
 
-#MENSAGEM INICIAL
+## MENSAGEM INICIAL
 
 "Olá! Sou um estrategista de conteúdo pronto para criar pautas de blog que atraem tráfego e engajam seu público.
 
