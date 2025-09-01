@@ -29,9 +29,6 @@ Os prompts estão organizados em pastas, de acordo com sua área de aplicação.
 7.  **[07-Extracao-de-Dados](./07-Extracao-de-Dados/)**
     * Prompts técnicos focados em webscraping para levantamento de dados comerciais de websites.
 
-8.  **[08-Gestao-de-Crise](./08-Gestao-de-Crise/)**
-    * Um agente especialista em gestão de atritos com clientes, fornecendo um plano de ação completo para reverter cenários negativos.
-
 ---
 
 *Este repositório está em constante atualização.*
